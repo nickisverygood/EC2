@@ -1,6 +1,6 @@
 package Flavor;
 
-public class FlavorGeneral {
+public abstract class FlavorGeneral {
     String name="N/A";
     public FlavorGeneral(){
         this.name = name;

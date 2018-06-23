@@ -2,7 +2,7 @@ package Condiment;
 
 import java.util.ArrayList;
 
-public class CondimentGeneral {
+public abstract class CondimentGeneral {
     String name = "Nothing";
     double particalAmount;
     public CondimentGeneral(String name){
